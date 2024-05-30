@@ -4,6 +4,7 @@ Welcome to our project developed for the "Hello GPT-4o AI Challenge"! This hacka
 
 
 Team Members:
+
 Achraf Mahdi MAJIDI - Project Lead / Developer
 
 Abdessamad ANSSEM - Developer 
